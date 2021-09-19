@@ -56,5 +56,5 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![](https://i.imgur.com/znJk5a6.gif)
+<!-- ![](https://i.imgur.com/znJk5a6.gif) -->
 
