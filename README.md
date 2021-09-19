@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- ![](https://i.imgur.com/3hTi3Ch.gif) -->
+![](https://i.imgur.com/3hTi3Ch.gif)
 
 
 
@@ -52,9 +52,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/znJk5a6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/znJk5a6.gif)
 
 
 
-<!-- ![](https://i.imgur.com/znJk5a6.gif) -->
+
 
